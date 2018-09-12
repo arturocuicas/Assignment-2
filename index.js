@@ -21,7 +21,7 @@ app.init = () => {
  workers.init();
 
 };
-
+// cambio para diferenciar
 // Self executing
 app.init();
 
